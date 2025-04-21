@@ -7,7 +7,7 @@ Tested with the files in the `cards-example` project. (Currently the tests fail 
 ## Installation
 
 ```bash
-cargo install --git github.com/flyinpancake/svg2pbc-rs
+cargo install --git https://github.com/FlyinPancake/svg2pdc-rs --config net.git-fetch-with-cli=true
 ```
 
 ## Usage
